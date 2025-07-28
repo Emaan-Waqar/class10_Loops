@@ -1,4 +1,4 @@
-string= input("Enter your word: ")
+string= input("Enter your word: " )
 
 string2= ('')
 #loop for printing in reverse
